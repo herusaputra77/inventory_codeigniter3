@@ -1,0 +1,5 @@
+-BUAT BUTTON DELETE EDIT DAN RELEASE pada barang masuk dan barang keluar
+-Tambahkan form status pada tabel barang masuk dan barang keluar di database 
+	status ada 2 yaitu Closed dan Proses
+-Setiap input data maka status barang otomatis proses
+-setiap mengklik release maka status berubah menjadi closed dan data otomatis terinput kedalam database
